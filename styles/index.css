@@ -1,0 +1,178 @@
+body{
+  background-color: #F0FFFF;
+}
+.a{
+  border: 3px solid #191970;
+  position: absolute;
+  left: 15%;
+  top:10%;
+  display: inline-block;
+  width: 30%;
+  height: 80%;
+  border-radius: 20px;
+}
+.b{
+  border: 3px solid #191970;
+  position: absolute;
+  left: 47%;
+  top:10%;
+  display: inline-block;
+  width: 30%;
+  height: 38%;
+  border-radius: 20px;
+}
+.c{
+  border: 3px solid #191970;
+  position: absolute;
+  left: 47%;
+  top:52%;
+  display: inline-block;
+  width: 30%;
+  height: 38%;
+  border-radius: 20px;
+}
+.d{
+  position: absolute;
+  left:35%;
+  color: #000080;
+  font-style:italic;
+}
+.e{
+  position: absolute;
+  left:70%;
+  top:11%;
+  color: #00008B;
+}
+.f{
+  position: absolute;
+  left:4%;
+  top:13%;
+  color: #00008B;
+}
+.g{
+  position: absolute;
+  left:24%;
+  top:13%;
+  color: #00008B;
+}
+.h{
+  position: absolute;
+  left:4%;
+  top:20%;
+  color: #00008B;
+}
+.i{
+  position: absolute;
+  left:24%;
+  top:20%;
+  color: #00008B;
+}
+.j{
+  position: absolute;
+  left:4%;
+  top:32%;
+  color: #00008B;
+}
+.k{
+  position: absolute;
+  left:12%;
+  top:32%;
+  color: #00008B;
+}
+.l{
+  position: absolute;
+  left:4%;
+  top:40%;
+  color: #00008B;
+}
+.m{
+  position: absolute;
+  left:11%;
+  top:40%;
+  color: #00008B;
+}
+.n{
+  position: absolute;
+  left:4%;
+  top:48%;
+  color: #00008B;
+}
+.o{
+  position: absolute;
+  left:15%;
+  top:48%;
+  color: #00008B;
+}
+.p{
+  position: absolute;
+  left:4%;
+  top:56%;
+  color: #00008B;
+}
+.q{
+  position: absolute;
+  left:29%;
+  top:56%;
+  color: #00008B;
+}
+.r{
+  position: absolute;
+  left:4%;
+  top:70%;
+  color: #00008B;
+}
+.s{
+  position: absolute;
+  left:18%;
+  top:70%;
+  color: #00008B;
+}
+.t{
+  position: absolute;
+  left:4%;
+  top:78%;
+  color: #00008B;
+}
+.u{
+  position: absolute;
+  left:22%;
+  top:78%;
+  color: #00008B;
+}
+.v{
+  position: absolute;
+  left:40%;
+  color:#000080;
+  font-style: italic;
+  
+}
+.w{
+  position: absolute;
+  left:40%;
+  top:25%;
+  color: #00008B;
+}
+.x{
+  position: absolute;
+  left:45%;
+  top:37%;
+  color: #00008B;
+}
+.y{
+  position: absolute;
+  left:40%;
+  color: #000080;
+  font-style: italic;
+}
+.z{
+  position: absolute;
+  left:44%;
+  top:25%;
+  color: #00008B;
+}
+.zz{
+  position: absolute;
+  left:42%;
+  top:37%;
+  color: #00008B;
+}
